@@ -1,2 +1,2 @@
 # try_git
-hello world
+hello Adam
